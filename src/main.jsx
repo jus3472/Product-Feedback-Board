@@ -8,7 +8,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/p43">
+    <BrowserRouter basename="/Product-Feedback-Board">
       <AuthProvider>
         <App />
       </AuthProvider>
